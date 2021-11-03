@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed1dd7c5-8ce8-4efb-b1ef-c5b615d7b7de" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vIEZaOqurkq3wdBOiOY2PfzB9C" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shop/src/main/java/com/blb/shop/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator.DESKTOP-B58MIK4\Desktop\java\javaweb\src\main\webapp" />
+      <recent name="C:\Users\Administrator.DESKTOP-B58MIK4\Desktop\java\shop\src\main\webapp" />
+      <recent name="C:\Users\Administrator.DESKTOP-B58MIK4\Desktop\java\shop\src\main\webapp\upload" />
+      <recent name="C:\Users\admin\Desktop\java\shop\src\main\webapp" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.blb.shop.dao.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator.DESKTOP-B58MIK4\Desktop\java\shop\src\main\java\com\blb\shop\utils" />
+      <recent name="C:\Users\Administrator.DESKTOP-B58MIK4\Desktop\java\shop\src\main\webapp" />
+      <recent name="C:\Users\Administrator.DESKTOP-B58MIK4\Desktop\java\shop\src\main\webapp\js" />
+      <recent name="I:\武汉厚浦暑假夏令营\day10\java\shop\src\main\webapp\js" />
+      <recent name="C:\Users\Administrator.DESKTOP-B58MIK4\Desktop\java\shop\src\main\webapp\upload" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.blb.shop.web.servlet" />
+      <recent name="com.blb.Request" />
+      <recent name="com.blb.javaweb" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cart" />
+      <recent name="com.blb.shop.dao.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.39">
+    <configuration name="DaoTest.fun10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blb.shop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blb.shop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blb.shop.test.DaoTest" />
+      <option name="METHOD_NAME" value="fun10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.fun11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blb.shop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blb.shop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blb.shop.test.DaoTest" />
+      <option name="METHOD_NAME" value="fun11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.fun7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blb.shop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blb.shop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blb.shop.test.DaoTest" />
+      <option name="METHOD_NAME" value="fun7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.fun8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blb.shop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blb.shop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blb.shop.test.DaoTest" />
+      <option name="METHOD_NAME" value="fun8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.fun9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blb.shop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blb.shop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blb.shop.test.DaoTest" />
+      <option name="METHOD_NAME" value="fun9" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="shop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_java" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60829" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DaoTest.fun7" />
+      <item itemvalue="JUnit.DaoTest.fun8" />
+      <item itemvalue="JUnit.DaoTest.fun9" />
+      <item itemvalue="JUnit.DaoTest.fun10" />
+      <item itemvalue="JUnit.DaoTest.fun11" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.39" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DaoTest.fun11" />
+        <item itemvalue="JUnit.DaoTest.fun10" />
+        <item itemvalue="JUnit.DaoTest.fun9" />
+        <item itemvalue="JUnit.DaoTest.fun8" />
+        <item itemvalue="JUnit.DaoTest.fun7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed1dd7c5-8ce8-4efb-b1ef-c5b615d7b7de" name="Default Changelist" comment="" />
+      <created>1626241258789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626241258789</updated>
+      <workItem from="1626241260050" duration="13000" />
+      <workItem from="1626260033767" duration="5764000" />
+      <workItem from="1626268085784" duration="1911000" />
+      <workItem from="1626309368860" duration="7581000" />
+      <workItem from="1626327330691" duration="454000" />
+      <workItem from="1626327808820" duration="613000" />
+      <workItem from="1626328438270" duration="10713000" />
+      <workItem from="1626345295706" duration="380000" />
+      <workItem from="1626345842673" duration="1014000" />
+      <workItem from="1626397871059" duration="3227000" />
+      <workItem from="1626440527923" duration="8073000" />
+      <workItem from="1626489269442" duration="15852000" />
+      <workItem from="1626572818583" duration="1389000" />
+      <workItem from="1626574221973" duration="4068000" />
+      <workItem from="1626582060035" duration="2809000" />
+      <workItem from="1626692830506" duration="172000" />
+      <workItem from="1626693251828" duration="5471000" />
+      <workItem from="1626698768211" duration="591000" />
+      <workItem from="1626743440023" duration="786000" />
+      <workItem from="1626747055281" duration="196000" />
+      <workItem from="1626747279396" duration="5242000" />
+      <workItem from="1626753691185" duration="11779000" />
+      <workItem from="1626774143616" duration="580000" />
+      <workItem from="1626776840148" duration="6361000" />
+      <workItem from="1626784528872" duration="3528000" />
+      <workItem from="1626790451310" duration="182000" />
+      <workItem from="1626828506171" duration="559000" />
+      <workItem from="1626829084857" duration="685000" />
+      <workItem from="1626829852901" duration="1344000" />
+      <workItem from="1626831250997" duration="8565000" />
+      <workItem from="1626855631180" duration="270000" />
+      <workItem from="1626855906403" duration="4474000" />
+      <workItem from="1626860421488" duration="860000" />
+      <workItem from="1626870308975" duration="1509000" />
+      <workItem from="1626871831716" duration="966000" />
+      <workItem from="1626945048868" duration="1511000" />
+      <workItem from="1626956236101" duration="3154000" />
+      <workItem from="1626959416502" duration="5515000" />
+      <workItem from="1627001056676" duration="4980000" />
+      <workItem from="1627009602583" duration="8327000" />
+      <workItem from="1627030105362" duration="1554000" />
+      <workItem from="1627217306088" duration="672000" />
+      <workItem from="1627217995395" duration="1364000" />
+      <workItem from="1627219372043" duration="195000" />
+      <workItem from="1627219581521" duration="2549000" />
+      <workItem from="1627260490916" duration="12061000" />
+      <workItem from="1627285125646" duration="2541000" />
+      <workItem from="1627287697987" duration="631000" />
+      <workItem from="1627288338304" duration="2047000" />
+      <workItem from="1627290407839" duration="665000" />
+      <workItem from="1627291098313" duration="820000" />
+      <workItem from="1627305809188" duration="1698000" />
+      <workItem from="1627307543116" duration="2891000" />
+      <workItem from="1627310471785" duration="221000" />
+      <workItem from="1627310707911" duration="596000" />
+      <workItem from="1627347119946" duration="2483000" />
+      <workItem from="1627354956718" duration="2425000" />
+      <workItem from="1627357419919" duration="289000" />
+      <workItem from="1627357774487" duration="1048000" />
+      <workItem from="1627368461666" duration="6832000" />
+      <workItem from="1627433339442" duration="14676000" />
+      <workItem from="1627519824980" duration="14669000" />
+      <workItem from="1627536977537" duration="10167000" />
+      <workItem from="1627558240415" duration="14339000" />
+      <workItem from="1627606425789" duration="804000" />
+      <workItem from="1627608069970" duration="16187000" />
+      <workItem from="1627641167787" duration="1464000" />
+      <workItem from="1627643118602" duration="680000" />
+      <workItem from="1627652380966" duration="852000" />
+      <workItem from="1627692719342" duration="17189000" />
+      <workItem from="1627866450272" duration="11963000" />
+      <workItem from="1627951516977" duration="4000" />
+      <workItem from="1627956903506" duration="14822000" />
+      <workItem from="1628233741473" duration="788000" />
+      <workItem from="1631869828662" duration="258000" />
+      <workItem from="1631887301055" duration="282000" />
+      <workItem from="1631955588046" duration="78000" />
+      <workItem from="1632019505661" duration="174000" />
+      <workItem from="1635123825876" duration="1408000" />
+      <workItem from="1635127333216" duration="317000" />
+      <workItem from="1635127696591" duration="97000" />
+      <workItem from="1635127812848" duration="536000" />
+      <workItem from="1635128368607" duration="2167000" />
+      <workItem from="1635143706698" duration="917000" />
+      <workItem from="1635144661369" duration="13000" />
+      <workItem from="1635144694163" duration="6000" />
+      <workItem from="1635421033604" duration="19000" />
+      <workItem from="1635421074186" duration="900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="_jspx_method" />
+        <watch expression="integerCartItemEntry" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java$Tomcat_8_5_39.ic" NAME="Tomcat 8.5.39 Coverage Results" MODIFIED="1627264570148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
